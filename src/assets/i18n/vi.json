@@ -1,0 +1,7 @@
+{
+  "welcomeMessage": "Cảm ơn {{ firstName }} đã tham gia! Rất vui khi có bạn!",
+  "login": {
+    "username": "Nhập tên người dùng của bạn",
+    "password": "Nhập mật khẩu của bạn ở đây"
+  }
+}
